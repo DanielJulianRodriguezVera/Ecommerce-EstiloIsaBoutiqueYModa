@@ -69,7 +69,7 @@ $nombreUsuario = htmlspecialchars($_SESSION['nombre_usuario']);
                     <div class="bg-white py-2 collapse-inner rounded">
                         <a class="collapse-item" href="productos.php"><i class="bi bi-backpack3-fill">Productos</i></a>
                         <a class="collapse-item" href="administradores.php"><i class="bi bi-person-fill-gear">Administradores</i></a>
-                        <a class="collapse-item" href="proveedores.php"><i class="bi bi-person-fill-exclamation"></i>Proveedores</a>
+                        <a class="collapse-item" href="proveedores.php"><i class="bi bi-person-fill-exclamation">Proveedores</i></a>
                     </div>
                 </div>
             </li>
